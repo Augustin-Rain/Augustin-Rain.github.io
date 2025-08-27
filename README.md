@@ -1,3 +1,3 @@
 # Augustin-Rain.github.io
 
-{hello world]
+[hello, world!]
